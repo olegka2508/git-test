@@ -1,1 +1,1 @@
-print("papa, mama, brat, i")
+print(" mama, papa, brat, i")
